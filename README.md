@@ -1,6 +1,6 @@
 # websocket-demo
 
-Simple demonstrations of websockets using `socket.io`. Two counters, where two devices can increment them seperately live.
+Simple demonstration of websockets using `socket.io`. Two counters, where two devices can increment them seperately live.
 
 Frontend Svelte Setup Project:
   - `npm init vite` and selecting the svelte option
